@@ -15,7 +15,7 @@ TripBus is a bus booking and travel platform designed to provide a simple and us
 
 The complete UI/UX design was created using Figma.
 
-🔗 **[View TripBus UI/UX Design on Figma](https://www.figma.com/make/xYCpUYUlnhYJgSnYmKtaiG/Stock-Market-Predictive-App?t=t3phdyR6ywxjZhuo-20&fullscreen=1)**
+🔗 **[View TripBus UI/UX Design on Figma](https://www.figma.com/make/iFOxi1HpoVyrlszJyJx3BZ/Trip-Bus-UI-UX-Design?code-node-id=0-9&p=f&t=1BJGBNBIvEaXcHvS-0&fullscreen=1)**
 
 ### Design Screenshots
 
